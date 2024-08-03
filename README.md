@@ -3,7 +3,7 @@
 Welcome to the Simon Game! This is a fun memory game where the player must repeat a sequence of colors and sounds. Each round, a new color is added to the sequence, increasing the challenge.
 
 ## Demo
-Check out the live demo of the Simon Game [here](https://your-demo-link.com).
+Check out the live demo of the Simon Game [here](https://simon-game-henna.vercel.app/).
 
 ## **📸 Screenshots**:
 ![Simon_game](Screenshot.jpeg)
