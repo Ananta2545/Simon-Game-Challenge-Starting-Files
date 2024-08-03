@@ -6,11 +6,7 @@ Welcome to the Simon Game! This is a fun memory game where the player must repea
 Check out the live demo of the Simon Game [here](https://your-demo-link.com).
 
 ## **📸 Screenshots**:
-![Food Delivery Website](frontend/public/image1.1.png)
-
-![Food Delivery Website](frontend/public/image1.2.png)
-
-![Food Delivery Website](frontend/public/image1.3.png)
+![Simon_game](Screenshot.jpeg)
 
 ## Features
 - Interactive gameplay with increasing difficulty
